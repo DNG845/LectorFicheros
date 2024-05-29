@@ -1,0 +1,45 @@
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-source
+'21'
+-sourcepath
+'C:/Users/danny/OneDrive/Documentos/NetBeansProjects/LectorFicheros/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2024. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/danny/OneDrive/Documentos/NetBeansProjects/LectorFicheros/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'LectorFicheros 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'LectorFicheros 1.0-SNAPSHOT API'
+com.mycompany.lectorficheros
+C:\Users\danny\OneDrive\Documentos\NetBeansProjects\LectorFicheros\src\main\java = 1716849920358
+C:\Users\danny\OneDrive\Documentos\NetBeansProjects\LectorFicheros\target\site\apidocs\allclasses-index.html = 1717000603296
+C:\Users\danny\OneDrive\Documentos\NetBeansProjects\LectorFicheros\target\site\apidocs\allpackages-index.html = 1717000603300
+C:\Users\danny\OneDrive\Documentos\NetBeansProjects\LectorFicheros\target\site\apidocs\copy.svg = 1717000603333
+C:\Users\danny\OneDrive\Documentos\NetBeansProjects\LectorFicheros\target\site\apidocs\element-list = 1717000603237
+C:\Users\danny\OneDrive\Documentos\NetBeansProjects\LectorFicheros\target\site\apidocs\help-doc.html = 1717000603328
+C:\Users\danny\OneDrive\Documentos\NetBeansProjects\LectorFicheros\target\site\apidocs\index-all.html = 1717000603319
+C:\Users\danny\OneDrive\Documentos\NetBeansProjects\LectorFicheros\target\site\apidocs\index.html = 1717000603323
+C:\Users\danny\OneDrive\Documentos\NetBeansProjects\LectorFicheros\target\site\apidocs\link.svg = 1717000603335
+C:\Users\danny\OneDrive\Documentos\NetBeansProjects\LectorFicheros\target\site\apidocs\member-search-index.js = 1717000603304
+C:\Users\danny\OneDrive\Documentos\NetBeansProjects\LectorFicheros\target\site\apidocs\module-search-index.js = 1717000603301
+C:\Users\danny\OneDrive\Documentos\NetBeansProjects\LectorFicheros\target\site\apidocs\overview-tree.html = 1717000603284
+C:\Users\danny\OneDrive\Documentos\NetBeansProjects\LectorFicheros\target\site\apidocs\package-search-index.js = 1717000603302
+C:\Users\danny\OneDrive\Documentos\NetBeansProjects\LectorFicheros\target\site\apidocs\script.js = 1717000603332
+C:\Users\danny\OneDrive\Documentos\NetBeansProjects\LectorFicheros\target\site\apidocs\search-page.js = 1717000603339
+C:\Users\danny\OneDrive\Documentos\NetBeansProjects\LectorFicheros\target\site\apidocs\search.html = 1717000603321
+C:\Users\danny\OneDrive\Documentos\NetBeansProjects\LectorFicheros\target\site\apidocs\search.js = 1717000603337
+C:\Users\danny\OneDrive\Documentos\NetBeansProjects\LectorFicheros\target\site\apidocs\stylesheet.css = 1717000603331
+C:\Users\danny\OneDrive\Documentos\NetBeansProjects\LectorFicheros\target\site\apidocs\tag-search-index.js = 1717000603306
+C:\Users\danny\OneDrive\Documentos\NetBeansProjects\LectorFicheros\target\site\apidocs\type-search-index.js = 1717000603303
